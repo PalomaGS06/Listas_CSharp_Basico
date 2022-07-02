@@ -1,0 +1,16 @@
+E:\COURSES\.NET Core\Projetos\Lista02\Lista02\bin\Debug\net5.0\Lista02.exe
+E:\COURSES\.NET Core\Projetos\Lista02\Lista02\bin\Debug\net5.0\Lista02.deps.json
+E:\COURSES\.NET Core\Projetos\Lista02\Lista02\bin\Debug\net5.0\Lista02.runtimeconfig.json
+E:\COURSES\.NET Core\Projetos\Lista02\Lista02\bin\Debug\net5.0\Lista02.runtimeconfig.dev.json
+E:\COURSES\.NET Core\Projetos\Lista02\Lista02\bin\Debug\net5.0\Lista02.dll
+E:\COURSES\.NET Core\Projetos\Lista02\Lista02\bin\Debug\net5.0\Lista02.pdb
+E:\COURSES\.NET Core\Projetos\Lista02\Lista02\obj\Debug\net5.0\Lista02.csproj.AssemblyReference.cache
+E:\COURSES\.NET Core\Projetos\Lista02\Lista02\obj\Debug\net5.0\Lista02.GeneratedMSBuildEditorConfig.editorconfig
+E:\COURSES\.NET Core\Projetos\Lista02\Lista02\obj\Debug\net5.0\Lista02.AssemblyInfoInputs.cache
+E:\COURSES\.NET Core\Projetos\Lista02\Lista02\obj\Debug\net5.0\Lista02.AssemblyInfo.cs
+E:\COURSES\.NET Core\Projetos\Lista02\Lista02\obj\Debug\net5.0\Lista02.csproj.CoreCompileInputs.cache
+E:\COURSES\.NET Core\Projetos\Lista02\Lista02\obj\Debug\net5.0\Lista02.dll
+E:\COURSES\.NET Core\Projetos\Lista02\Lista02\obj\Debug\net5.0\refint\Lista02.dll
+E:\COURSES\.NET Core\Projetos\Lista02\Lista02\obj\Debug\net5.0\Lista02.pdb
+E:\COURSES\.NET Core\Projetos\Lista02\Lista02\obj\Debug\net5.0\Lista02.genruntimeconfig.cache
+E:\COURSES\.NET Core\Projetos\Lista02\Lista02\obj\Debug\net5.0\ref\Lista02.dll
