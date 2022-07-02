@@ -1,0 +1,16 @@
+E:\COURSES\.NET Core\Projetos\Lista04\Lista04\bin\Debug\net5.0\Lista04.exe
+E:\COURSES\.NET Core\Projetos\Lista04\Lista04\bin\Debug\net5.0\Lista04.deps.json
+E:\COURSES\.NET Core\Projetos\Lista04\Lista04\bin\Debug\net5.0\Lista04.runtimeconfig.json
+E:\COURSES\.NET Core\Projetos\Lista04\Lista04\bin\Debug\net5.0\Lista04.runtimeconfig.dev.json
+E:\COURSES\.NET Core\Projetos\Lista04\Lista04\bin\Debug\net5.0\Lista04.dll
+E:\COURSES\.NET Core\Projetos\Lista04\Lista04\bin\Debug\net5.0\Lista04.pdb
+E:\COURSES\.NET Core\Projetos\Lista04\Lista04\obj\Debug\net5.0\Lista04.csproj.AssemblyReference.cache
+E:\COURSES\.NET Core\Projetos\Lista04\Lista04\obj\Debug\net5.0\Lista04.GeneratedMSBuildEditorConfig.editorconfig
+E:\COURSES\.NET Core\Projetos\Lista04\Lista04\obj\Debug\net5.0\Lista04.AssemblyInfoInputs.cache
+E:\COURSES\.NET Core\Projetos\Lista04\Lista04\obj\Debug\net5.0\Lista04.AssemblyInfo.cs
+E:\COURSES\.NET Core\Projetos\Lista04\Lista04\obj\Debug\net5.0\Lista04.csproj.CoreCompileInputs.cache
+E:\COURSES\.NET Core\Projetos\Lista04\Lista04\obj\Debug\net5.0\Lista04.dll
+E:\COURSES\.NET Core\Projetos\Lista04\Lista04\obj\Debug\net5.0\refint\Lista04.dll
+E:\COURSES\.NET Core\Projetos\Lista04\Lista04\obj\Debug\net5.0\Lista04.pdb
+E:\COURSES\.NET Core\Projetos\Lista04\Lista04\obj\Debug\net5.0\Lista04.genruntimeconfig.cache
+E:\COURSES\.NET Core\Projetos\Lista04\Lista04\obj\Debug\net5.0\ref\Lista04.dll
