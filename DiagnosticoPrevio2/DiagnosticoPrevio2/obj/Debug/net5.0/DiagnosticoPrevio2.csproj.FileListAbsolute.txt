@@ -1,0 +1,16 @@
+E:\COURSES\.NET Core\Projetos\DiagnosticoPrevio2\DiagnosticoPrevio2\obj\Debug\net5.0\DiagnosticoPrevio2.csproj.AssemblyReference.cache
+E:\COURSES\.NET Core\Projetos\DiagnosticoPrevio2\DiagnosticoPrevio2\obj\Debug\net5.0\DiagnosticoPrevio2.GeneratedMSBuildEditorConfig.editorconfig
+E:\COURSES\.NET Core\Projetos\DiagnosticoPrevio2\DiagnosticoPrevio2\obj\Debug\net5.0\DiagnosticoPrevio2.AssemblyInfoInputs.cache
+E:\COURSES\.NET Core\Projetos\DiagnosticoPrevio2\DiagnosticoPrevio2\obj\Debug\net5.0\DiagnosticoPrevio2.AssemblyInfo.cs
+E:\COURSES\.NET Core\Projetos\DiagnosticoPrevio2\DiagnosticoPrevio2\obj\Debug\net5.0\DiagnosticoPrevio2.csproj.CoreCompileInputs.cache
+E:\COURSES\.NET Core\Projetos\DiagnosticoPrevio2\DiagnosticoPrevio2\bin\Debug\net5.0\DiagnosticoPrevio2.exe
+E:\COURSES\.NET Core\Projetos\DiagnosticoPrevio2\DiagnosticoPrevio2\bin\Debug\net5.0\DiagnosticoPrevio2.deps.json
+E:\COURSES\.NET Core\Projetos\DiagnosticoPrevio2\DiagnosticoPrevio2\bin\Debug\net5.0\DiagnosticoPrevio2.runtimeconfig.json
+E:\COURSES\.NET Core\Projetos\DiagnosticoPrevio2\DiagnosticoPrevio2\bin\Debug\net5.0\DiagnosticoPrevio2.runtimeconfig.dev.json
+E:\COURSES\.NET Core\Projetos\DiagnosticoPrevio2\DiagnosticoPrevio2\bin\Debug\net5.0\DiagnosticoPrevio2.dll
+E:\COURSES\.NET Core\Projetos\DiagnosticoPrevio2\DiagnosticoPrevio2\bin\Debug\net5.0\DiagnosticoPrevio2.pdb
+E:\COURSES\.NET Core\Projetos\DiagnosticoPrevio2\DiagnosticoPrevio2\obj\Debug\net5.0\DiagnosticoPrevio2.dll
+E:\COURSES\.NET Core\Projetos\DiagnosticoPrevio2\DiagnosticoPrevio2\obj\Debug\net5.0\refint\DiagnosticoPrevio2.dll
+E:\COURSES\.NET Core\Projetos\DiagnosticoPrevio2\DiagnosticoPrevio2\obj\Debug\net5.0\DiagnosticoPrevio2.pdb
+E:\COURSES\.NET Core\Projetos\DiagnosticoPrevio2\DiagnosticoPrevio2\obj\Debug\net5.0\DiagnosticoPrevio2.genruntimeconfig.cache
+E:\COURSES\.NET Core\Projetos\DiagnosticoPrevio2\DiagnosticoPrevio2\obj\Debug\net5.0\ref\DiagnosticoPrevio2.dll

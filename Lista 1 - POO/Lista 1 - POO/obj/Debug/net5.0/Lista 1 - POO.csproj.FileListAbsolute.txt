@@ -1,0 +1,16 @@
+E:\COURSES\.NET Core\Projetos\Lista 1 - POO\Lista 1 - POO\bin\Debug\net5.0\Lista 1 - POO.exe
+E:\COURSES\.NET Core\Projetos\Lista 1 - POO\Lista 1 - POO\bin\Debug\net5.0\Lista 1 - POO.deps.json
+E:\COURSES\.NET Core\Projetos\Lista 1 - POO\Lista 1 - POO\bin\Debug\net5.0\Lista 1 - POO.runtimeconfig.json
+E:\COURSES\.NET Core\Projetos\Lista 1 - POO\Lista 1 - POO\bin\Debug\net5.0\Lista 1 - POO.runtimeconfig.dev.json
+E:\COURSES\.NET Core\Projetos\Lista 1 - POO\Lista 1 - POO\bin\Debug\net5.0\Lista 1 - POO.dll
+E:\COURSES\.NET Core\Projetos\Lista 1 - POO\Lista 1 - POO\bin\Debug\net5.0\Lista 1 - POO.pdb
+E:\COURSES\.NET Core\Projetos\Lista 1 - POO\Lista 1 - POO\obj\Debug\net5.0\Lista 1 - POO.csproj.AssemblyReference.cache
+E:\COURSES\.NET Core\Projetos\Lista 1 - POO\Lista 1 - POO\obj\Debug\net5.0\Lista 1 - POO.GeneratedMSBuildEditorConfig.editorconfig
+E:\COURSES\.NET Core\Projetos\Lista 1 - POO\Lista 1 - POO\obj\Debug\net5.0\Lista 1 - POO.AssemblyInfoInputs.cache
+E:\COURSES\.NET Core\Projetos\Lista 1 - POO\Lista 1 - POO\obj\Debug\net5.0\Lista 1 - POO.AssemblyInfo.cs
+E:\COURSES\.NET Core\Projetos\Lista 1 - POO\Lista 1 - POO\obj\Debug\net5.0\Lista 1 - POO.csproj.CoreCompileInputs.cache
+E:\COURSES\.NET Core\Projetos\Lista 1 - POO\Lista 1 - POO\obj\Debug\net5.0\Lista 1 - POO.dll
+E:\COURSES\.NET Core\Projetos\Lista 1 - POO\Lista 1 - POO\obj\Debug\net5.0\refint\Lista 1 - POO.dll
+E:\COURSES\.NET Core\Projetos\Lista 1 - POO\Lista 1 - POO\obj\Debug\net5.0\Lista 1 - POO.pdb
+E:\COURSES\.NET Core\Projetos\Lista 1 - POO\Lista 1 - POO\obj\Debug\net5.0\Lista 1 - POO.genruntimeconfig.cache
+E:\COURSES\.NET Core\Projetos\Lista 1 - POO\Lista 1 - POO\obj\Debug\net5.0\ref\Lista 1 - POO.dll

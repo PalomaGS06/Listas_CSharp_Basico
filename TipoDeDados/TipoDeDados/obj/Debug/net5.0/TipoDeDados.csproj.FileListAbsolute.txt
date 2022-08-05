@@ -1,0 +1,16 @@
+E:\COURSES\.NET Core\Projetos\TipoDeDados\TipoDeDados\bin\Debug\net5.0\TipoDeDados.exe
+E:\COURSES\.NET Core\Projetos\TipoDeDados\TipoDeDados\bin\Debug\net5.0\TipoDeDados.deps.json
+E:\COURSES\.NET Core\Projetos\TipoDeDados\TipoDeDados\bin\Debug\net5.0\TipoDeDados.runtimeconfig.json
+E:\COURSES\.NET Core\Projetos\TipoDeDados\TipoDeDados\bin\Debug\net5.0\TipoDeDados.runtimeconfig.dev.json
+E:\COURSES\.NET Core\Projetos\TipoDeDados\TipoDeDados\bin\Debug\net5.0\TipoDeDados.dll
+E:\COURSES\.NET Core\Projetos\TipoDeDados\TipoDeDados\bin\Debug\net5.0\TipoDeDados.pdb
+E:\COURSES\.NET Core\Projetos\TipoDeDados\TipoDeDados\obj\Debug\net5.0\TipoDeDados.csproj.AssemblyReference.cache
+E:\COURSES\.NET Core\Projetos\TipoDeDados\TipoDeDados\obj\Debug\net5.0\TipoDeDados.GeneratedMSBuildEditorConfig.editorconfig
+E:\COURSES\.NET Core\Projetos\TipoDeDados\TipoDeDados\obj\Debug\net5.0\TipoDeDados.AssemblyInfoInputs.cache
+E:\COURSES\.NET Core\Projetos\TipoDeDados\TipoDeDados\obj\Debug\net5.0\TipoDeDados.AssemblyInfo.cs
+E:\COURSES\.NET Core\Projetos\TipoDeDados\TipoDeDados\obj\Debug\net5.0\TipoDeDados.csproj.CoreCompileInputs.cache
+E:\COURSES\.NET Core\Projetos\TipoDeDados\TipoDeDados\obj\Debug\net5.0\TipoDeDados.dll
+E:\COURSES\.NET Core\Projetos\TipoDeDados\TipoDeDados\obj\Debug\net5.0\refint\TipoDeDados.dll
+E:\COURSES\.NET Core\Projetos\TipoDeDados\TipoDeDados\obj\Debug\net5.0\TipoDeDados.pdb
+E:\COURSES\.NET Core\Projetos\TipoDeDados\TipoDeDados\obj\Debug\net5.0\TipoDeDados.genruntimeconfig.cache
+E:\COURSES\.NET Core\Projetos\TipoDeDados\TipoDeDados\obj\Debug\net5.0\ref\TipoDeDados.dll
